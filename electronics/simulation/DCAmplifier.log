@@ -1,0 +1,12 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Maxime\Desktop\PROJETS\Portable-Voltage-Standard\electronics\simulation\DCAmplifier.asc
+Start Time: Sun Feb  2 14:39:41 2025
+solver = Alternate
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v3.  Increasing period to 3
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.282 seconds.
+

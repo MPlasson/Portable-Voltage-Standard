@@ -491,7 +491,7 @@
       "plot": "GBR/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../mechanical/PortableVoltageStandard.step",
+      "step": "../../enclosure/PortableVoltageStandard.step",
       "svg": "",
       "vrml": ""
     },

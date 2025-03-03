@@ -13,6 +13,8 @@ A portable voltage reference module, based on the REF7050 chip from Ti.
 
 ## Tests status
 
+Link to test report: [TestReport](tests/index.md)
+
 - [x] Initial bringup
 - [ ] Line regulation
 - [ ] Load regulation

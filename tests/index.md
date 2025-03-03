@@ -1,13 +1,19 @@
 # Portable Voltage Standard: Tests results
 
 ## Line regulation
+Not done yet :/
+
 ## Load regulation
+Not done yet :/
+
 ## Current consumption
 When using the alternate power input (through the push-in connector) the board draws around 11mA, which is reasonable.
 
 This should give us an approximate battery life of 500h (considering a typical 9V battery with a cutoff voltage of 6V).
 
 ## Low battery LED trigger voltage
+Not done yet :/
+
 ## Ambient temperature accuracy
 
 At ambient temperature (~21°C) the output voltage is close to 4.99982V, which corresponds to an error of around 36ppm. Not bad for a ±0.025% (250ppm) chip !
@@ -24,3 +30,4 @@ By plotting output voltage deviation (relative to a perfect 5V) relative to he t
 
 Each line beginning at 25°C has a slope of ±2ppm/°C, which corresponds to the Ti specification. Out prototype is inside the limits for common lab temperatures.
 ## Output stability (100h minimum)
+Not done yet :/
